@@ -82,10 +82,10 @@ Finally, run `fairseq-tit-stage4-finetune` to finetune the entire model.
 Run `fairseq-tit-generate` to test final model.
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * []()
 * []()
-* []()
+* []() -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
