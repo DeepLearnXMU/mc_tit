@@ -1,6 +1,6 @@
 <!-- GETTING STARTED -->
 
-
+# mc-tit
 Code for ACL 2023 paper: Exploring Better Text Image Translation with Multimodal Codebook
 
 
