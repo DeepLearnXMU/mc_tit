@@ -17,7 +17,7 @@ v2.0/
         └── image_valid.txt
         └── test.tok.lower.en //each line corresponds to an English translation text.
         └── test.tok.lower.zh //each line corresponds to a Chinese text recongined by ocr.
-        └── test.tok.lower.zh-c //each line corresponds to a labeled Chinese  text.
+        └── test.tok.lower.zh-c //each line corresponds to a labeled Chinese text.
         └── train.tok.lower.en
         └── train.tok.lower.zh
         └── train.tok.lower.zh-c
@@ -28,7 +28,7 @@ v2.0/
 ├── raw_data //The raw ocr labeled data,including locations and Chinese texts embedding in each image.
 ```
 
-The zhen images can be get here. [whole_image](https://docs.google.com/forms/d/e/1FAIpQLSfghS7K1sf5leRA_Xh0pQRsuqmrNMuyUAYkYh2bBRa0NfAh6w/viewform?usp=sf_link)
+The images can be get here. [whole_image](https://docs.google.com/forms/d/e/1FAIpQLSfghS7K1sf5leRA_Xh0pQRsuqmrNMuyUAYkYh2bBRa0NfAh6w/viewform?usp=sf_link)
 
 ```
 ├── whole_image // containing images with ID being the image filename (0,1,2, etc)
@@ -38,7 +38,7 @@ The zhen images can be get here. [whole_image](https://docs.google.com/forms/d/e
 ```
 
 ## v1.0
-We also release the v1.0 data, which is the original data used in our paper. However, we highly recommand v2.0 data.
+We also release the v1.0 data, which is the original data used in our paper. We make further manual corrections based on v1.0 to build v2.0 data. We highly recommand v2.0 data.
 
 ## Proprecess code
 We release the proprecess code, If you want to proprecess the raw data, you need to install the paddleocr(https://github.com/PaddlePaddle/PaddleOCR) first, and then run the `ocr_proprecess.sh`
