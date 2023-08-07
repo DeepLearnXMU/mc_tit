@@ -5,7 +5,7 @@ Code for ACL 2023 paper: Exploring Better Text Image Translation with Multimodal
 
 
 ## OCRMT30K Dataset
-Dataset download link will be released soon
+Dataset can be found [here](https://github.com/DeepLearnXMU/mc_tit/tree/main/ocrmt30k_data)
 
 ## Install fairseq
 ```
