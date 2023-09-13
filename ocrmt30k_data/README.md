@@ -42,3 +42,5 @@ We also release the v1.0 data, which is the original data used in our paper. We 
 
 ## Proprecess code
 We release the proprecess code, If you want to proprecess the raw data, you need to install the paddleocr(https://github.com/PaddlePaddle/PaddleOCR) first, and then run the `ocr_proprecess.sh`
+
+## The data can not be used for commerical purposes.
