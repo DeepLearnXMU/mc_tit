@@ -87,14 +87,14 @@ Run `fairseq-tit-generate` to test final model.
 @article{lan2023mctit,
   title={Exploring Better Text Image Translation with Multimodal Codebook},
   author={Zhibin Lan and Jiawei Yu and Xiang Li and Wen Zhang and Jian Luan and Bin Wang and Degen Huang and Jinsong Su},
-  journal={ACL},
+  publisher={ACL},
   year={2023}
 }
 
 @article{lan2025timt-mcmt,
   title={Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training},
   author={Zhibin Lan and Jiawei Yu and Shiyu Liu and Junfeng Yao and Degen Huang and Jinsong Su},
-  journal={Neural Network},
+  publisher={Neural Network},
   year={2025}
 }
 ```
