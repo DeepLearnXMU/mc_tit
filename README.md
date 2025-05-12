@@ -1,8 +1,9 @@
 <!-- GETTING STARTED -->
 
 # mc-tit
-1. Code for ACL 2023 paper: Exploring Better Text Image Translation with Multimodal Codebook.
-2. Code for Neural Network 2025 paper: Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training. [link](https://github.com/DeepLearnXMU/mc_tit/tree/main/timt-mcmt)
+Code for ACL 2023 paper: Exploring Better Text Image Translation with Multimodal Codebook.
+
+Code for Neural Network 2025 paper: Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training. [link](https://github.com/DeepLearnXMU/mc_tit/tree/main/timt-mcmt)
 
 ## OCRMT30K Dataset
 Dataset can be found [here](https://github.com/DeepLearnXMU/mc_tit/tree/main/ocrmt30k_data)
@@ -90,7 +91,7 @@ Run `fairseq-tit-generate` to test final model.
   year={2023}
 }
 
-@article{lan2023timt-mcmt,
+@article{lan2025timt-mcmt,
   title={Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training},
   author={Zhibin Lan and Jiawei Yu and Shiyu Liu and Junfeng Yao and Degen Huang and Jinsong Su},
   journal={Neural Network},
